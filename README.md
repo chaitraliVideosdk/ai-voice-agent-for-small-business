@@ -36,7 +36,7 @@ This Agent is designed to act as a helpful assistant as ai voice agent for small
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/videosdk-community/ai-voice-agent-for-small-business.git
+   git clone https://github.com/chaitraliVideosdk/ai-voice-agent-for-small-business.git
    ```
 
 2. **Navigate to the project directory:**
